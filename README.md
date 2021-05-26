@@ -36,9 +36,7 @@ should test thoroughly yourself to make sure your program works as expected.
 
 ## Tasks
 
-Download this starter code:
-
-[https://github.com/ucsd-cse11-s20/exam2](https://github.com/ucsd-cse11-s20/exam2)
+Download the starter code.
 
 (The `ExamplesSearch` class is identical to the start code from Exam 1)
 
@@ -93,5 +91,5 @@ explanation is here:
 [https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf](https://drive.google.com/open?id=1E-TcVXSg9BI4MnWoVU9_BbcRJsu8ZhCf)
 
 PA5 has a tutorial for creating a screencast like this
-[https://ucsd-cse11-s20.github.io/pa5/](https://ucsd-cse11-s20.github.io/pa5/).
+[https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa5-starter](https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa5-starter).
 
