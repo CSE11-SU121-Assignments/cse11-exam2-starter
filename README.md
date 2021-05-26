@@ -37,9 +37,7 @@ should test thoroughly yourself to make sure your program works as expected.
 
 ## Tasks
 
-Download this starter code:
-
-[https://github.com/ucsd-cse11-s20/exam2](https://github.com/ucsd-cse11-s20/exam2)
+Download the starter code in this repo.
 
 (The `ExamplesSearch` class is identical to the start code from Exam 1)
 
