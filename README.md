@@ -25,7 +25,7 @@ Submission checklist (see long descriptions below for full details):
 - `[ ]` Constructed three instances of `AllQuery` with specified array lengths
 - `[ ]` Six tests using these constructed `AllQuery` objects
 - `[ ]` Screencast
-  - Show ID
+  - Picture ID + Face
   - Trace evaluation of the `AllQuery` test
 
 
