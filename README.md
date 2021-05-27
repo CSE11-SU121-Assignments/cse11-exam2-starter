@@ -42,6 +42,7 @@ Download the starter code.
 
 You should **not** change any of the existing methods or classes except for the `mystery` method, and adding to `ArrayExamples` and `ExamplesSearch`. Don't change `ImageQuery` or the other query classes, just add new ones as described below.
 
+Also, ensure that the methods take arguments in the same order that is mentioned in the tasks. Mixing up the order makes it more difficult to grade and can also prevent you getting any feedback from Gradescope's autograder.
 
 ### Task 1
 
