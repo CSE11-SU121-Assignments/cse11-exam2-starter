@@ -77,7 +77,7 @@ You can assume that all inputs to both of these methods are not `null`, and `n` 
 
 You will record a short video of no more than 5 minutes. Include:
 
-- Your face and your student ID for a few seconds at the beginning. You don't
+- Your face and a picture ID (your student ID is preferred) for a few seconds at the beginning. You don't
   have to be on camera the whole time, though it's fine if you are. Just a
   brief confirmation that it's you creating the video/doing the work attached
   to the work itself is what we want.
