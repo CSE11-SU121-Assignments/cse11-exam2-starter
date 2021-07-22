@@ -36,7 +36,7 @@ should test thoroughly yourself to make sure your program works as expected.
 
 ## Tasks
 
-Download the starter code.
+Download the starter code. Some of the starter code is very lightly adapted from [this reading](https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture11.html).
 
 (The `ExamplesSearch` class is identical to the start code from Exam 1)
 
