@@ -72,7 +72,7 @@ You can assume that all inputs to both of these methods are not `null`, and `n` 
 
 1. In the file `ExamplesSearch.java`, add a new class called `AllQuery` implementing `ImageQuery`. It should have a field of type `ImageQuery[]` and a corresponding constructor to initialize that field. Its `matches` method should return `true` when _all_ of the queries in the list match the given image. If the query array is empty, `matches` should return `true` for any `ImageData`.
 
-2. Create three `AllQuery`s with arrays of size 1, 3 and 5, each containing different queries. Demonstrate using each query's `matches` method on at least two different `ImageData` inputs, once returning `true` and once returning `false`. So at least 6 tests in total. (You can and should write _more_ tests than this to ensure that the class works as you expect, but this is what we'll check for).
+2. Create three `AllQuery` objects with arrays of size 1, 3 and 5, each containing different queries. Demonstrate using each query's `matches` method on at least two different `ImageData` inputs, once returning `true` and once returning `false`. So at least 6 tests in total. (You can and should write _more_ tests than this to ensure that the class works as you expect, but this is what we'll check for).
 
 ### Task 4 – Video
 
